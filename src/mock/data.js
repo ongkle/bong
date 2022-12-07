@@ -1,6 +1,10 @@
 import Axie from "../asset/Axie-Infinity.jpg";
 import decentraland from "../asset/decentraland.jpg";
 import sandbox from "../asset/sandbox.jpeg";
+import nft1 from "../asset/nft1.png";
+import nft2 from "../asset/nft2.png";
+import nft3 from "../asset/nft3.jpg";
+import nft4 from "../asset/nft4.png";
 
 const displayItems = [
   {
